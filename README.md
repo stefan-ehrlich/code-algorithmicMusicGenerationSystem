@@ -50,3 +50,19 @@ code-algorithmicMusicGenerationSystem/
 ├── russel.png                      # affective space illustration (valence/arousal plane)
 ├── LICENSE
 └── README.md
+
+## Citation
+If you use this code in research, please cite:
+
+@article{ehrlich2019closedloop,
+  title   = {A closed-loop, music-based brain-computer interface for emotion mediation},
+  author  = {Ehrlich, Stefan K. and Agres, Kat R. and Guan, Cuntai and Cheng, Gernot},
+  journal = {PLOS ONE},
+  volume  = {14},
+  number  = {3},
+  pages   = {e0213516},
+  year    = {2019},
+  doi     = {10.1371/journal.pone.0213516}
+}
+
+
