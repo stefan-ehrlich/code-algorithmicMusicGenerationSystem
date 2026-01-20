@@ -50,6 +50,7 @@ code-algorithmicMusicGenerationSystem/
 ├── russel.png                      # affective space illustration (valence/arousal plane)
 ├── LICENSE
 └── README.md
+```
 
 ## Citation
 If you use this code in research, please cite:
