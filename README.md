@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains the **rule-based probabilistic algorithmic music generation system** used in:
+This repository contains the **rule-based probabilistic algorithmic music generation system** presented in:
 
 > Ehrlich, S. K., Agres, K. R., Guan, C., & Cheng, G. (2019).  
 > *A closed-loop, music-based brain-computer interface for emotion mediation.*  
