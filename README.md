@@ -45,6 +45,7 @@ resulting in a **small classical chamber-orchestra style**. :contentReference[oa
 code-algorithmicMusicGenerationSystem/
 ├── composer_algorithm.m            # main probabilistic MIDI generator + affect mapping (val/aro → structure)
 ├── trajectory_gen.m                # generate trajectories through affective space (valence/arousal over time)
+├── documentation.pdf               # mathematical formulation of the composing algorithm
 ├── trj_*.mat                       # example affective trajectories (valence/arousal)
 ├── sound_examples/                 # rendered audio examples of generated music
 ├── russel.png                      # affective space illustration (valence/arousal plane)
